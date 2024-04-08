@@ -10,3 +10,7 @@
 **This application is an assignment from dicoding precisely on the learning path fundamental android**
 **Getting 4 stars from reviewer **
 
+
+
+https://github.com/TamarillowBonaparte/GithubUserApp/assets/125776654/49341e4b-5269-485c-b7d2-44e331abb779
+
