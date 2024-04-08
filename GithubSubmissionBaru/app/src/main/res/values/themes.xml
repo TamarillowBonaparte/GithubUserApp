@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubSubmissionBaru" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+    </style>
+
+<!--    <style name="Splash" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--        name="Theme.RemoveSplashScreenTheme" parent="@style/BaseTheme">-->
+<!--        <item name="android:windowIsTranslucent">true</item>-->
+<!--    </style>-->
+
+    <style name="Theme.GithubSubmissionBaru" parent="Base.Theme.GithubSubmissionBaru" />
+
+</resources>
